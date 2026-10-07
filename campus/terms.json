@@ -1,0 +1,326 @@
+[
+  {
+    "id": "T001",
+    "zh": "数据结构",
+    "ru": "структуры данных",
+    "domain": "计算机",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T002",
+    "zh": "算法",
+    "ru": "алгоритм",
+    "domain": "计算机",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T003",
+    "zh": "计算机网络",
+    "ru": "компьютерные сети",
+    "domain": "计算机",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T004",
+    "zh": "操作系统",
+    "ru": "операционная система",
+    "domain": "计算机",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T005",
+    "zh": "数据库",
+    "ru": "база данных",
+    "domain": "计算机",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T006",
+    "zh": "人工智能",
+    "ru": "искусственный интеллект",
+    "domain": "计算机",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T007",
+    "zh": "机器学习",
+    "ru": "машинное обучение",
+    "domain": "计算机",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T008",
+    "zh": "软件工程",
+    "ru": "программная инженерия",
+    "domain": "计算机",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T009",
+    "zh": "二叉树",
+    "ru": "двоичное дерево",
+    "domain": "计算机",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T010",
+    "zh": "链表",
+    "ru": "связный список",
+    "domain": "计算机",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T011",
+    "zh": "线性代数",
+    "ru": "линейная алгебра",
+    "domain": "数学",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T012",
+    "zh": "数学分析",
+    "ru": "математический анализ",
+    "domain": "数学",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T013",
+    "zh": "概率论",
+    "ru": "теория вероятностей",
+    "domain": "数学",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T014",
+    "zh": "数理统计",
+    "ru": "математическая статистика",
+    "domain": "数学",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T015",
+    "zh": "微分方程",
+    "ru": "дифференциальные уравнения",
+    "domain": "数学",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T016",
+    "zh": "离散数学",
+    "ru": "дискретная математика",
+    "domain": "数学",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T017",
+    "zh": "矩阵",
+    "ru": "матрица",
+    "domain": "数学",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T018",
+    "zh": "向量",
+    "ru": "вектор",
+    "domain": "数学",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T019",
+    "zh": "学分",
+    "ru": "зачётная единица",
+    "domain": "教务",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T020",
+    "zh": "选修课",
+    "ru": "дисциплина по выбору",
+    "domain": "教务",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T021",
+    "zh": "必修课",
+    "ru": "обязательная дисциплина",
+    "domain": "教务",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T022",
+    "zh": "课程表",
+    "ru": "расписание занятий",
+    "domain": "教务",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T023",
+    "zh": "期末考试",
+    "ru": "итоговый экзамен",
+    "domain": "教务",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T024",
+    "zh": "补考",
+    "ru": "пересдача экзамена",
+    "domain": "教务",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T025",
+    "zh": "成绩单",
+    "ru": "выписка оценок",
+    "domain": "教务",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T026",
+    "zh": "毕业论文",
+    "ru": "выпускная квалификационная работа",
+    "domain": "教务",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T027",
+    "zh": "学术诚信",
+    "ru": "академическая добросовестность",
+    "domain": "教务",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T028",
+    "zh": "教学大纲",
+    "ru": "рабочая программа дисциплины",
+    "domain": "教务",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T029",
+    "zh": "图书馆",
+    "ru": "библиотека",
+    "domain": "校园",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T030",
+    "zh": "实验室",
+    "ru": "лаборатория",
+    "domain": "校园",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T031",
+    "zh": "学生宿舍",
+    "ru": "студенческое общежитие",
+    "domain": "校园",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T032",
+    "zh": "食堂",
+    "ru": "столовая",
+    "domain": "校园",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T033",
+    "zh": "校园卡",
+    "ru": "карта студента",
+    "domain": "校园",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T034",
+    "zh": "国际合作",
+    "ru": "международное сотрудничество",
+    "domain": "校园",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T035",
+    "zh": "创新创业",
+    "ru": "инновации и предпринимательство",
+    "domain": "校园",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  },
+  {
+    "id": "T036",
+    "zh": "奖学金",
+    "ru": "стипендия",
+    "domain": "校园",
+    "status": "seed_unreviewed",
+    "source": "项目种子示例，需俄语教师审定",
+    "version": "1.0"
+  }
+]
